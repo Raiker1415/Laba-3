@@ -1,0 +1,62 @@
+h3{
+        color: blue; 
+        font-family: Snell Roundhand, cursive;
+}
+html {
+    height: 200%;
+}
+
+
+/*
+table td {
+	border: 1px solid rgb(55, 55, 55);
+}
+tr:nth-child(1) {
+    font-size: 28px;
+    font-weight: bold;
+    background: #e6e6fa;
+}
+tr:nth-child(2n) {
+    background: grey;
+}*/
+
+td{
+    padding: 20px;
+}
+
+body {
+    background-color: lightgreen;
+    padding: 20px;
+}
+div.head{
+    border: 1px solid saddlebrown;
+}
+div.bord{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid green;
+}
+input{
+    background-color: whitesmoke);
+    border: none;  
+    color: black; 
+    padding: 14px 20px;
+    margin: 8px 0;
+    width: 25%;
+}
+button{
+    float: right;
+    border: none;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    width: 33%;
+    margin: right;
+}
+button.in_go{
+    background-color: green;
+}
+button.in_stop{
+    background-color: red;
+}
